@@ -20,9 +20,6 @@ module.exports = {
         footerclr: "#F3F8FC",
         footertxtclr: "#7C7C7C",
       },
-      spacing: {
-        160: "40",
-      },
     },
   },
   plugins: [],
